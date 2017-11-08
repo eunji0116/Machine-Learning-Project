@@ -1,1 +1,1 @@
-It's the tutorial that's about Naive Bayes. 
+It's the tutorial about Naive Bayes. 
